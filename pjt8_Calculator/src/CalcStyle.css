@@ -1,0 +1,11 @@
+input.screen {
+    height: 30px;
+    font-size: 28px;
+    width: 185px;
+}
+
+.calcButtons {
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+}

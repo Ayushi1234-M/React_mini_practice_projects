@@ -1,0 +1,27 @@
+.shoppingListDiv {
+    width: 300px;
+    border: 1px solid black;
+    height: 250px;
+    overflow-y: scroll;
+}
+
+input[type="text"] {
+    width: 295px;
+    font-size: 20px;
+    color: darkblue;
+    margin-bottom: 10px;
+}
+
+.shoppingListItem{
+    cursor: pointer;
+}
+
+.tick, .cross{
+    cursor: pointer;
+}
+
+.strike
+{
+    text-decoration: line-through;
+    color: lightgray;
+}

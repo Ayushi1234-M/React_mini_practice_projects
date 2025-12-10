@@ -1,0 +1,29 @@
+.strike{
+    color: grey;
+    text-decoration: line-through;
+}
+
+.notStriked{
+    color: black;
+}
+
+.allComps {
+    display: flex;
+}
+
+.todoTasks {
+    border-right: 1px solid black;
+}
+
+.pri-p1{
+    color: red;
+}
+
+.pri-p2{
+    color: orange;
+}
+
+.pri-p3{
+    color: green;
+}
+

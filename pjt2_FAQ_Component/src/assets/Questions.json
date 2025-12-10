@@ -1,0 +1,7 @@
+[
+  {"id": 1, "question": "What is the capital of India?", "ans": "New Delhi", "isOpen": false},
+  {"id": 2, "question": "What is the currency of India?", "ans": "Indian Rupee", "isOpen": false},
+  {"id": 3, "question": "In which year did India gain independence?", "ans": "1947", "isOpen": false},
+  {"id": 4, "question": "What is the national animal of India?", "ans": "Bengal tiger", "isOpen": false},
+  {"id": 5, "question": "What is the longest river in India?", "ans": "Ganga", "isOpen": false}
+]

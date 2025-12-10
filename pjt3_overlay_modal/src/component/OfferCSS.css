@@ -1,0 +1,74 @@
+button.showOfferBtn{
+    background-color: peru;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 200px;
+    height: 60px;
+}
+
+button.showOfferBtn:hover{
+    background-color: orange;
+    cursor: pointer;
+}
+
+.offerStartComp {
+    height: 97vh;
+    background-color: aliceblue;
+}
+
+.offerOpenedComp
+{
+    height: 97vh;
+    background-color: green;
+}
+
+.showOfferBtnDiv {
+    width: 100px;
+    position: absolute;
+    left: 45%;
+    top: 50%;
+}
+
+.modalComp
+{
+    width: 200px;
+    position: absolute;
+    left: 45%;
+    top: 30%;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: rgb(215, 84, 84);
+}
+
+.acceptOfferBtn {
+    background-color: purple;
+    border: 1px solid black;
+    color: white;
+    width: 100%;
+    height: 30px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.closeBtn
+{
+    background-color: transparent;
+    border: none;
+}
+
+.closeBtn:hover{
+    background-color: lightgoldenrodyellow;
+    cursor: pointer;
+}
+
+
+.acceptedOffer{
+
+    position: absolute;
+    left: 45%;
+    top: 30%;
+    padding: 10px;
+    border: 2px solid black;
+
+}

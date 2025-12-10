@@ -1,0 +1,45 @@
+.start-the-game{
+    background-color: purple;
+    color: white;
+}
+
+.boxes {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    flex-wrap: wrap;
+    background: aliceblue;
+    padding-top: 20px;
+}
+
+.cellsShow {
+    height: 50px;
+    color: black;
+    width: 50px;
+    border: 1px solid cadetblue;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.cellsHide{
+    height: 50px;
+    width: 50px;
+    border: 1px solid cadetblue;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: rgb(208, 68, 68);
+    background-color: rgb(208, 68, 68);
+}
+
+.matchedcards{
+    height: 50px;
+    width: 50px;
+    border: 1px solid cadetblue;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: cadetblue;
+    background-color: cadetblue;
+}

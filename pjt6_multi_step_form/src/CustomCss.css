@@ -1,0 +1,15 @@
+.indiv{
+    border: 1px solid black;
+}
+
+.indiv {
+    border: 1px solid black;
+    height: 120px;
+    background-color: darkcyan;
+    width: 300px;
+}
+
+button {
+    margin: 10px;
+    border-radius: 22px;
+}
